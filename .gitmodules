@@ -1,6 +1,7 @@
 [submodule "chifra"]
 	path = chifra
-	url = https://github.com/TrueBlocks/trueblocks-chifra.git
+	url = https://github.com/valve-tech/trueblocks-chifra.git
+	branch = valve
 [submodule "khedra"]
 	path = khedra
 	url = https://github.com/TrueBlocks/trueblocks-khedra.git
